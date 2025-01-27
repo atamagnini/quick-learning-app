@@ -1,6 +1,20 @@
 # Quick Learning App
 
+## Course Information
+This project was completed as part of the Mobile and Ubiquitous Computing (CS 528) course in Fall 2023 at Worcester Polytechnic Institute (WPI). The course covered topics related to mobile application development, user-centered design, and integrating various sensors and services for mobile platforms.
+
+## Project Description
+
 An Android app designed for non-native English speakers, featuring Optical Character Recognition (OCR), Text-to-Speech (TTS), and translation for real-time text recognition and enhanced accessibility.
+
+## Technologies Used
+
+- Android Studio
+- Google ML Kit
+- Text-to-Speech (TTS)
+- Optical Character Recognition (OCR)
+- AndroidX Camera Library
+- Accelerometer
 
 ## Project Files
 
