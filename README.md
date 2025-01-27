@@ -5,8 +5,8 @@ An Android app designed for non-native English speakers, featuring Optical Chara
 ## Project Files
 
 - video_demo.mp4: A video demo showcasing the app's features.
-- quick-learning.zip: The program (source code) for the Quick Learning app.
 - PAPER Quick-learning app.pdf: The full project report.
+- [quick-learning.zip](https://drive.google.com/file/d/1dHbF3FQP3xHpJbtcEn4AIl_ahDpOOUgq/view?usp=sharing): The program (source code) for the Quick Learning app, storaged in G. Drive.
 
 ## How to Run the Code
 
